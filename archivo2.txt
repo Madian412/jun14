@@ -1,3 +1,7 @@
 mi segundo archivo
 galaxia
 bantan
+LINEA ENTREMEDIO
+LINEA 1
+LINEA 2
+LINEA 3
